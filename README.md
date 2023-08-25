@@ -12,7 +12,7 @@
 <h2 align="center">Memory Card Game v.2.0</h2>
 Built a Memory Matching Card game using JavaScript Now This version has a Timer in which you have to complete the game.Built a Memory Card game using HTML5, CSS3 and JavaScript. Used CSS Animation and also used Array sort method to sort the images.
 
-<a href="https://memorycard-game-v1-jrpranav.netlify.app/"><strong>➥ Play Now</strong></a>
+<a href="https://memory-card-game-v2-jrpranav.netlify.app/"><strong>➥ Play Now</strong></a>
 
 </div>
 
