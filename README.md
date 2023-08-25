@@ -26,18 +26,18 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Memory Card Game v.1.0**, run this command on your git bash:
+To run **Memory Card Game v.2.0**, run this command on your git bash:
 
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/Pranav-Jadhav09/memory-card-game-v1.git
+sudo git clone https://github.com/Pranav-Jadhav09/memory-card-game-v2.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/Pranav-Jadhav09/memory-card-game-v1.git
+git clone https://github.com/Pranav-Jadhav09/memory-card-game-v2.git
 ```
 
 ### License
